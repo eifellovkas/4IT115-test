@@ -5,7 +5,11 @@
 	<groupId>com.github.eifellovkas</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<description>priklad do testu</description>
+=======
+	<name>test_case</name>
+>>>>>>> dev
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
