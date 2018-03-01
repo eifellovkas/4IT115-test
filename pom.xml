@@ -5,6 +5,7 @@
 	<groupId>com.github.eifellovkas</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<description>priklad do testu</description>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
